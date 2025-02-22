@@ -10,10 +10,10 @@ I also have a strong interest in **cyber sports and football**, and I am current
 ---
 
 ## 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/avazbek-jumoqulov-353b39280/)
-[Instagram](https://www.instagram.com/jumaqulov__)
-[Telegram](https://t.me/Avazbey21)
-[Email](mailto:avazjonjumoqulov@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avazbek-jumoqulov-353b39280/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jumaqulov__) 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Avazbey21) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avazjonjumoqulov@gmail.com)
 
 ---
 

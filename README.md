@@ -18,7 +18,7 @@ I also have a strong interest in **cyber sports and football**, and I am current
 ---
 
 ## My Projects:
-[![Project Image](https://your-image-link.com)](https://sslcertificate.uz/)
+[![My Project](https://img.shields.io/badge/My%20Project-Live%20Demo-blue?style=for-the-badge)](https://sslcertificate.uz/)
 
 ---
 

@@ -37,6 +37,13 @@ I also have a strong interest in **cyber sports and football**, and I am current
 
 ---
 
-## 📊 Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avazbek&show_icons=true&theme=dark)
+## 📊 GitHub Stats:
+
+![Avazbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=avazbek&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=avazbek&theme=dark)
+
+![Avazbek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avazbek&theme=react-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avazbek&layout=compact&theme=dark)
 

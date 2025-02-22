@@ -17,6 +17,11 @@ I also have a strong interest in **cyber sports and football**, and I am current
 
 ---
 
+## My Projects:
+[![My Project](https://img.shields.io/badge/My%20Project-Live%20Demo-blue?style=for-the-badge)](https://your-project-link.com)
+
+---
+
 ## 💻 Tech Stack:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

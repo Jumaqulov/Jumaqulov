@@ -10,7 +10,7 @@ I also have a strong interest in **cyber sports and football**, and I am current
 ---
 
 ## 🌐 Socials:
-[LinkedIn](linkedin.com/in/avazbek-jumoqulov-353b39280)
+[LinkedIn](https://linkedin.com/in/avazbek-jumoqulov-353b39280)
 
 ---
 

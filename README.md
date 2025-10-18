@@ -1,7 +1,7 @@
 # Avazbek Jumaqulov
 
 ## 🚀 About Me:
-I am a passionate **React Developer** with **1 year** of experience in building interactive and high-performance web applications. I specialize in **React.js, JavaScript, Express, and MongoDB** to develop modern and scalable applications.
+I am a passionate **React Developer** with **2 year** of experience in building interactive and high-performance web applications. I specialize in **React.js, JavaScript, Express, and MongoDB** to develop modern and scalable applications.
 
 I have experience working on video conferencing projects, integrating **Payme** for electronic payments, and implementing **real-time communication** features. My focus is on writing clean, maintainable, and efficient code to create seamless user experiences.
 

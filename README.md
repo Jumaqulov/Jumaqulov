@@ -97,10 +97,10 @@ My stack: **React, Node.js, Express, MongoDB, Redis, WebRTC, Socket.IO, Electron
 
 ## 📊 GitHub Stats
 
-![Avazbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jumaqulov&show_icons=true&theme=dark)
+![Avazbek's GitHub stats](https://github-readme-stats-six-theta-90.vercel.app/api?username=Jumaqulov&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Jumaqulov&theme=dark)
 
 ![Avazbek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jumaqulov&theme=react-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jumaqulov&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-six-theta-90.vercel.app/api/top-langs/?username=Jumaqulov&layout=compact&theme=dark)

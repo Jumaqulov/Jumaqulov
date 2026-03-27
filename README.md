@@ -8,10 +8,8 @@
 
 I am the core developer behind **[UzLink](https://uzlink.uz)** — an enterprise video conferencing platform built for the Uzbekistan market (alternative to Zoom/Google Meet). Key achievements:
 
-- 🏗️ Designed and built **8-microservice architecture** (Gateway, Auth, Dashboard, Registry, Mobile API, Dev, Log, Room)
-- 📹 Implemented **WebRTC SFU** (Mediasoup) supporting **100+ concurrent participants** across a **6-server cluster**
-- 🔒 Built enterprise security: **mTLS**, **2FA TOTP**, **EV Code Signing**, HMAC-SHA256 service auth
-- 💻 Developed **3 client apps**: Web (React + Next.js), Desktop (Electron), Mobile (React Native)
+- 📹 Built a video conferencing platform supporting **100+ concurrent participants**
+- 💻 Developed **Web**, **Desktop** and **Mobile** client applications
 - 🌍 Shipped with **5-language** support (Uzbek Latin/Cyrillic, Russian, English, Karakalpak)
 - 💳 Integrated **Payme** payment processing
 
@@ -31,12 +29,12 @@ My stack: **React, Node.js, Express, MongoDB, Redis, WebRTC, Socket.IO, Electron
 ## 🔗 My Projects
 
 ### 🎥 UzLink — Enterprise Video Conferencing Platform
-> WebRTC SFU platform with 8 microservices, 6-server room cluster, 100+ participants, mTLS security. Web + Desktop + Mobile clients.
+> O'zbekiston bozori uchun yaratilgan enterprise video konferensiya platformasi. Zoom va Google Meet'ga mahalliy alternativa. Web, Desktop va Mobile ilovalar bilan.
 
 [![UzLink](https://img.shields.io/badge/UzLink-Live%20Demo-green?style=for-the-badge)](https://uzlink.uz/)
 
 ### 🔒 SSL Certificate
-> SSL certificate management tool.
+> SSL sertifikatlarni boshqarish vositasi.
 
 [![SSL Certificate](https://img.shields.io/badge/SSL%20Certificate-Live%20Demo-blue?style=for-the-badge)](https://sslcertificate.uz/)
 

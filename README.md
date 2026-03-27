@@ -29,12 +29,12 @@ My stack: **React, Node.js, Express, MongoDB, Redis, WebRTC, Socket.IO, Electron
 ## 🔗 My Projects
 
 ### 🎥 UzLink — Enterprise Video Conferencing Platform
-> O'zbekiston bozori uchun yaratilgan enterprise video konferensiya platformasi. Zoom va Google Meet'ga mahalliy alternativa. Web, Desktop va Mobile ilovalar bilan.
+> Enterprise video conferencing platform built for the Uzbekistan market. A local alternative to Zoom and Google Meet. Available on Web, Desktop and Mobile.
 
 [![UzLink](https://img.shields.io/badge/UzLink-Live%20Demo-green?style=for-the-badge)](https://uzlink.uz/)
 
 ### 🔒 SSL Certificate
-> SSL sertifikatlarni boshqarish vositasi.
+> SSL certificate management tool.
 
 [![SSL Certificate](https://img.shields.io/badge/SSL%20Certificate-Live%20Demo-blue?style=for-the-badge)](https://sslcertificate.uz/)
 

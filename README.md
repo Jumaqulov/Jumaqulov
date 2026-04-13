@@ -13,8 +13,6 @@ I am the core developer behind **[UzLink](https://uzlink.uz)** — an enterprise
 - 🌍 Shipped with **5-language** support (Uzbek Latin/Cyrillic, Russian, English, Karakalpak)
 - 💳 Integrated **Payme** payment processing
 
-My stack: **React, Node.js, Express, MongoDB, Redis, WebRTC, Socket.IO, Electron, React Native, Next.js, Docker, Nginx**
-
 ---
 
 ## 🌐 Socials
